@@ -79,4 +79,6 @@ python analyze_results.py --folder 原文件夹 处理文件夹
 
 ## 许可证
 
-本项目仅供学习交流使用。
+本项目基于 [GNU AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.html) 开源发布，与核心依赖 PyMuPDF 的许可证保持一致。
+
+Copyright © 2026 zhengyangyv
