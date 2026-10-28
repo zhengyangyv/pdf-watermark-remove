@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+*_clean.pdf
+*_分析.png
